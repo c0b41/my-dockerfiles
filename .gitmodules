@@ -1,0 +1,3 @@
+[submodule "docker-lumen"]
+	path = docker-lumen
+	url = git@github.com:c0b41/docker-lumen.git
