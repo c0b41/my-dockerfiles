@@ -1,3 +1,6 @@
 [submodule "docker-lumen"]
 	path = docker-lumen
 	url = git@github.com:c0b41/docker-lumen.git
+[submodule "docker-laravel"]
+	path = docker-laravel
+	url = git@github.com:c0b41/docker-laravel.git
