@@ -4,3 +4,6 @@
 [submodule "docker-laravel"]
 	path = docker-laravel
 	url = git@github.com:c0b41/docker-laravel.git
+[submodule "cockpit-armhf"]
+	path = cockpit-armhf
+	url = git@github.com:c0b41/cockpit-armhf.git
