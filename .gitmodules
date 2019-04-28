@@ -7,3 +7,6 @@
 [submodule "cockpit-armhf"]
 	path = cockpit-armhf
 	url = git@github.com:c0b41/cockpit-armhf.git
+[submodule "adguardhome-armhf"]
+	path = adguardhome-armhf
+	url = git@github.com:c0b41/adguardhome-armhf.git
