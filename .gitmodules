@@ -10,3 +10,6 @@
 [submodule "adguardhome-armhf"]
 	path = adguardhome-armhf
 	url = git@github.com:c0b41/adguardhome-armhf.git
+[submodule "cloudflared-armhf"]
+	path = cloudflared-armhf
+	url = git@github.com:c0b41/cloudflared-armhf.git
